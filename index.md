@@ -1,8 +1,8 @@
 ---
-title: The Monospace Web
-subtitle: A minimalist design exploration
-author: Oskar Wickström
-author-url: "https://wickstrom.tech"
+title: AR0E
+subtitle: General garbage bin
+author: Artur R. B. Boyago
+author-url: "ar0e.github.io"
 date: 2024-08-26
 lang: en
 toc-title: Contents
