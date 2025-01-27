@@ -18,7 +18,7 @@ jobs:
       uses: nikeee/setup-pandoc@master
 
     - name: build site
-      run: make
+      run: make -B
 
     - name: Run check
       run: make check
