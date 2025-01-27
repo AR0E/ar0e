@@ -1,12 +1,12 @@
 ---
-title: The Monospace Web
-subtitle: A minimalist design exploration
-author: Oskar Wickström
-author-url: "https://wickstrom.tech"
+title: AR0E
+subtitle: ARBB's trash bin
+author: ARB
+author-url: GOD
 date: 2024-08-26
 lang: en
 toc-title: Contents
-version: v0.1.1
+version: v0.1
 ---
 
 ## Introduction
