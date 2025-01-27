@@ -5,7 +5,7 @@ clean:
 	rm -f index.html
 
 index.html: index.md template.html Makefile
-	pandoc --toc -s --css reset.css --css index.css -i input.md -o output.html --template=template.html
+	pandoc --toc -s --css reset.css --css index.css -i index.md -o index.html --template=template.html
 
 
 .PHONY: all clean
