@@ -11,3 +11,6 @@ index.html: index.md template.html Makefile
 
 check:
 	@echo "No checks needed."
+
+distcheck:
+	@echo "No distcheck needed."
