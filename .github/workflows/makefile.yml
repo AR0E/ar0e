@@ -14,7 +14,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Install dependencies
+    - name: Setup pandoc
+      uses: nikeee/setup-pandoc@master
+
+    - name: build site
       run: make
 
     - name: Run check
