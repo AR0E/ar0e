@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<!--
+  HTML template for generating documents with Pandoc.
+  Includes placeholders for dynamic content and metadata.
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <!-- Basic metadata -->
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+  <!-- Author metadata -->
+  $for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+  $endfor$
+
+  <!-- Date metadata -->
+  $if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$" />
+  $endif$
+
+  <!-- Keywords for SEO -->
+  $if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
+  $endif$
+
+  <!-- Description for SEO -->
+  $if(description-meta)$
+  <meta name="description" content="$description-meta$" />
+  $endif$
+
+  <!-- Document title -->
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+
+  <!-- External CSS files -->
+  $for(css)$
+  <link rel="stylesheet" href="$css$" />
+  $endfor$
+
+  <!-- Additional header includes (e.g., scripts, styles) -->
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+
+  <!-- Math rendering support -->
+  $if(math)$
+  $math$
+  $endif$
+</head>
+<body>
+  <!-- Content to include before the main body -->
+  $for(include-before)$
+  $include-before$
+  $endfor$
+
+  <!-- Document header with title, version, author, and metadata -->
+  <table class="header">
+    <tr>
+      <!-- Title and subtitle -->
+      <td colspan="2" rowspan="2" class="width-auto">
+        <h1 class="title">$title$</h1>
+        <span class="subtitle">$subtitle$</span>
+      </td>
+      <!-- Version -->
+      <th>Version</th>
+      <td class="width-min">$version$</td>
+    </tr>
+    <tr>
+      <!-- Last updated date -->
+      <th>Updated</th>
+      <td class="width-min"><time style="white-space: pre;">$date$</time></td>
+    </tr>
+    <tr>
+      <!-- Author information -->
+      <th class="width-min">Author</th>
+      <td class="width-auto"><a href="$author-url$"><cite>$author$</cite></a></td>
+      <!-- License information -->
+      <th class="width-min">License</th>
+      <td>MIT</td>
+    </tr>
+  </table>
+
+  <!-- Debug mode toggle -->
+  <label class="debug-toggle-label">
+    <input type="checkbox" class="debug-toggle" /> Debug mode
+  </label>
+
+  <!-- Abstract section (if provided) -->
+  $if(abstract)$
+  <div class="abstract">
+    <div class="abstract-title">$abstract-title$</div>
+    $abstract$
+  </div>
+  $endif$
+
+  <!-- Table of Contents (if enabled) -->
+  $if(toc)$
+  <nav id="$idprefix$TOC" role="doc-toc">
+    $if(toc-title)$
+    <h2 id="$idprefix$toc-title">$toc-title$</h2>
+    $endif$
+    $table-of-contents$
+  </nav>
+  $endif$
+
+  <!-- Main content -->
+  $body$
+
+  <!-- Content to include after the main body -->
+  $for(include-after)$
+  $include-after$
+  $endfor$
+
+  <!-- Debug grid overlay (for layout debugging) -->
+  <div class="debug-grid"></div>
+
+  <!-- Main JavaScript file -->
+  <script src="index.js"></script>
+</body>
+</html>
