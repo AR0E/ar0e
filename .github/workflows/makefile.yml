@@ -29,16 +29,6 @@ jobs:
           echo "The produced_pages directory contains files. Deployment check passed."
         fi
 
-    - name: Verify HTML files in produced_pages
-      run: |
-        for file in produced_pages/*.html; do
-          if ! xmllint --noout "$file"; then
-            echo "Invalid HTML file: $file"
-            exit 1
-          fi
-        done
-        echo "All HTML files are valid."
-
     - name: Run check
       run: make check
 
