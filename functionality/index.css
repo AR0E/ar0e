@@ -97,10 +97,10 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text-color: #cdcdcd;
+    --text-color: #b7c7d4;
     --text-color-alt: #aaa;
-    --background-color: #000000;
-    --background-color-alt: #111;
+    --background-color: #303030;
+    --background-color-alt: #303030;
 
     --light-mix: 12%;
     --medium-mix: 40%;
