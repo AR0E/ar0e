@@ -1,12 +1,11 @@
 ---
-title: Definitive Reading List
-subtitle: (Everything I need to know)
-author: The voices
-author-url: GOD
-date: 2024-08-26
-lang: en
-toc-title: Contents
-version: v0.1
+permalink: /reading-list/
+title: "The Definitive Reading List"
+excerpt: "Everything I need to know"
+author_profile: true
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
 ---
 
 This is just what I managed to remember to put here. Any suggestions welcome (altough my reading list won't allow me for much).
@@ -49,6 +48,15 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Edwin F. Taylor's page](https://www.eftaylor.com/index.html)
     - [When action is not least](https://www.eftaylor.com/pub/Gray&TaylorAJP.pdf)
 
+  - **Optics**
+
+    - Electron dynamics in complex time and complex space - Emilio Pisanty Alatorre
+    - [Emilio Pisanty's site](https://episanty.github.io/)
+      - [Taking control of polarization using high-harmonic generation](https://episanty.github.io/publications/nphoton.2014.141.pdf)
+      - [Quantum tunnelling without a barrier](https://episanty.github.io/publications/arXiv.2311.14826.pdf)
+      - [Knotting fractional-order knots with the polarization state of light](https://episanty.github.io/publications/nphoton.2019.569-Accepted-Manuscript.pdf)
+
+
   - **Articles**
     - [The Square Cat - E. Putterman, O. Raz](https://arxiv.org/pdf/0801.0926)
     - The works of E. T. Jaynes
@@ -66,8 +74,11 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Classical Electrodynamics in Terms of Direct Interparticle Action - Feynman, Wheeler
       - Relativistic non-instantaneous action-at-a-distance interactions - Domingo Martinez
     - [Prime Number Decomposition, the Hyperbolic Function and Multi-Path Michelson Interferometers - Tamma](https://link.springer.com/article/10.1007/s10701-010-9522-3) 
+    - [Enumerative Methods in Quantum Electrodynamics](https://arxiv.org/pdf/2011.04291)
 
 
+    - [The Frauchiger-Renner paradox - Ian Koot](https://www.math.ru.nl/~landsman/IanKoot2019.pdf)
+    - Quantum probability theory and the foundations of quantum mechanics - J. Fröhlic and B. Schubnel
     - Presentism and Quantum Gravity - Bradley Monton
     - Notes on Quantum Mechanics - David V. Schroeder
     - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
@@ -77,6 +88,13 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - An Introduction to Spontaneous Symmetry Breaking - Beekman, Rademaker, Wezel
     - Possible Kinematics - Bacry, Levy-Leblond
     - Emergence of fractal geometries in the evolution of a metabolic enzyme - Sendker
+    - The Electronic Partition Function Paradox - S. J. Strickler
+
+    - On field lines, generally
+      - [Covariant field lines: a geometrical approach to electrodynamics - Hadad, Kaminer](https://arxiv.org/pdf/2312.10367)
+      - The magnetic field lines of a helical coil are not simple loops - M. Lieberherr
+      - Lines of Force in Electric and Magnetic Fields - Joseph Slepian
+
   
   - **Books**
     - The works of Clifford Truesdell
@@ -87,6 +105,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Statistical Mechanics (I and II) - Ryogo Kubo](https://emineter.wordpress.com/wp-content/uploads/2018/08/kubo_zbirka.pdf)
 
     - What is Life? - Erwin Schrödinger
+    - The Same and Not the Same - Roald Hoffmann
     - The works of David Hull
       - Are species really individuals?
       - The use and abuse of Sir Karl Popper
@@ -95,6 +114,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Replicators and Interactors in Cultural Evolution - Reyes, Plotkin](https://users.ox.ac.uk/~ascch/Celia's%20pdfs/1%20Heyes%20&%20Plotkin%201988.pdf)
     - In Defence of Generalised Darwinism - Hull, Hodgson
     - [The Strategy of Model Building in Population Biology - Richard Levins](https://uberty.org/wp-content/uploads/2015/07/Levins-1966-Model_Building.pdf)
+    - [Organisms, organizations and interactions: an information theory approach to biocultural evolution](https://pubmed.ncbi.nlm.nih.gov/10482422/)
 
       
     - Gravitation - Wheeler, Thorne, Misner
@@ -117,6 +137,11 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
 - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
 - [Garret Sobczyk's page (geometric calculus)](http://www.garretstar.com/index.html)
+- [What's New in Math](https://www.math.stonybrook.edu/~tony/whatsnew/)
+  - [A non-commutative marriage system in the South Pacific](https://www.math.stonybrook.edu/~tony/whatsnew/oct09/vanuatu2.html)
+  - [Math and the Musical Offering](https://www.math.stonybrook.edu/~tony/whatsnew/column/canons-0399/canon1.html)
+  - [Potential of the Catastrophe Machine](https://www.math.stonybrook.edu/~tony/whatsnew/column/catastrophe-0600/cusp5.html)
+  - [Finite dimensional Feynman diagrams](https://www.math.stonybrook.edu/~tony/whatsnew/column/feynman-1101/feynman1.html)
   
 - [Alan Kennington's page](http://www.topology.org/)
   - [Differential geometry reconstructed](http://www.topology.org/tex/conc/dgchaps.html) 
@@ -130,12 +155,13 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 - **Articles**
   - Differential Geometry of Music Perception - Himpel
   - John Baez's musical diaries
+  - [Combinatorial Music Theory](http://andrewduncan.net/cmt/)
   - [Visual musicology](https://visual-musicology.com/)
   - [Ethan Hein's music page](https://www.ethanhein.com/wp/)
     - [Visualizing Music](https://www.ethanhein.com/wp/2011/visualizing-music/)
     - [C-flat and B-sharp](https://www.ethanhein.com/wp/2024/c-flat-and-b-sharp/)
 
-    
+  - [A knot-theoretic tour of dimension four - Marton Beke, Kyle Hayden](https://arxiv.org/pdf/2501.03219)
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
@@ -143,6 +169,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Riemannian Geometry: Definitions, Pictures and Results - Adam Marsh](https://arxiv.org/pdf/1412.2393)
   - [Gauge Theories and Fiber Bundles: Definitions, Pictures and Results - Adam Marsh](https://arxiv.org/pdf/1607.03089)
   - [Sign and Geometric Meaning of Curvature - M. Gromov](https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/177.pdf)
+  - [Physical and geometric interpretations of the Riemann and Ricci Tensor](https://arxiv.org/pdf/gr-qc/0401099)
   - [The Penrose Tiling is a Quantum Error-Correcting Code - Li, Boyle](https://arxiv.org/pdf/2311.13040)
     
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
@@ -201,6 +228,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Understanding Computing Through Visualized Lambda Calculus](veryunknown.com/post/lambda-calculus-visualized/)
 - [N8Programs](https://n8python.github.io/)
   - [MNIST Number Latent Space](https://n8python.github.io/mnistLatentSpace/)
+- [The Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) 
     
 - [Nicholas Chapman's page (Forward Scattering)](https://www.forwardscattering.org/)
   - [Kolmogorov Complexity](https://www.forwardscattering.org/page/Kolmogorov%20complexity)
@@ -450,6 +478,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Human and Intelligent Machines: Co-Evolution, Fusion or Replacement? - David Pearce
   - [The Use of Knowledge in Society - F. A. Hayek](https://edisciplinas.usp.br/pluginfile.php/4869389/mod_resource/content/1/hayek.pdf)
   - [You can't tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
+  - [The Path to American Authoritarianism](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump)
 
 
 
@@ -459,6 +488,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Musicophilia - Oliver Sacks
   - Thought-Forms: A Record of Clairvoyant Investigation - Besant, Leadbeater
   - [Depth psychology and spiritual tradition - Mats Winther](http://mlwi.magix.net/index.htm)
+  - [footnotes2plato](footnotes2plato.com)
+    - [Realizing the Noosphere]
   - 137: Jung, Pauli and the pursuit of scientific obsession - Arthur I. Miller
   - The Origin of Consciousness in the Breakdown of the Bicameral Mind - Julian Jaynes
   - [SEELE HQ - City of Play](https://cityofplay.substack.com/)
@@ -511,27 +542,31 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Natural Philosophy for Schools - Dionysius Lardner
   - The New Marvel in Photography (Discovery of X-Rays 1896) - H. J. Dam
 
-  - A History and Philosophy of Fluid Mechanics - Tokaty
-  - A History of Numerical Analysis from the 16th Through the 19th Century - Herman Goldstine
-  - Euler's Wave Theory of Light - Kurt Moller Pedersen
-  - History of the Principle of Interference of Light - Nahum Kipnis
-  - A brief history of Florentine physics from the 1920s to the end of the 1960s - Casalbuoni, Dominici, Mazzoni
-  - The Man from the Future (Von Neumann biography) - Ananyo Bhattacharya
-  - Geons, Black Holes and Quantum Foam (J. Wheeler biography) - Kenneth Ford
-  - The Stragest Man: Mystic of the Atom (Dirac biography) - Graham Farmelo
-  - Genius: The Life and Science of Richard Feynman - James Gleick
-  - True Genius: The Life and Science of John Bardeen - Hoddeson, Daitch (yikes!)
-  - Isaac Newton - James Gleick
-  - The Great Physicists from Galileo to Einstein - George Gamow
-  - Genius Talk: Conversations With Nobel Scientists and Other Luminaries - Denis Brian
+  - History of Science
+    - A History and Philosophy of Fluid Mechanics - Tokaty
+    - A History of Numerical Analysis from the 16th Through the 19th Century - Herman Goldstine
+    - Euler's Wave Theory of Light - Kurt Moller Pedersen
+    - History of the Principle of Interference of Light - Nahum Kipnis
+    - A brief history of Florentine physics from the 1920s to the end of the 1960s - Casalbuoni, Dominici, Mazzoni
+    - The Man from the Future (Von Neumann biography) - Ananyo Bhattacharya
+    - Geons, Black Holes and Quantum Foam (J. Wheeler biography) - Kenneth Ford
+    - The Stragest Man: Mystic of the Atom (Dirac biography) - Graham Farmelo
+    - Genius: The Life and Science of Richard Feynman - James Gleick
+    - True Genius: The Life and Science of John Bardeen - Hoddeson, Daitch (yikes!)
+    - Isaac Newton - James Gleick
+    - The Great Physicists from Galileo to Einstein - George Gamow
+    - Genius Talk: Conversations With Nobel Scientists and Other Luminaries - Denis Brian
+    - [Dr. Wheeler in Wonderland](https://www.amphilsoc.org/blog/dr-wheeler-wonderland)
+    - [The Papers and Notebooks of John Archibald Wheeler]https://as.amphilsoc.org/repositories/2/resources/1844)
 
-  - Feynman and the visualization of space-time processes - Silvan S. Schweber
-  - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
-  - The Surpressed Drawings: The Hidden Geometry of Paul Dirac - Peter Galison
-  - Leray in Oflag XVIIA: The origins of sheaf theory, sheaf cohomology and spectral sequences - Haynes Miller
-  - Makers of the Microchip: A Documentary History of Fairchild Semiconductor - Lécuyer, Brock
-  - Why is Maxwell's Theory so hard to understad? - Freeman J. Dyson
-  - C.N. Yang and Contemporary Mathematics - D. Z. Zhang
+    - Feynman and the visualization of space-time processes - Silvan S. Schweber
+    - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
+    - The Surpressed Drawings: The Hidden Geometry of Paul Dirac - Peter Galison
+    - What is Quantum Field Theory, and What Did We Think It Is? - S. Weinberg
+    - Leray in Oflag XVIIA: The origins of sheaf theory, sheaf cohomology and spectral sequences - Haynes Miller
+    - Makers of the Microchip: A Documentary History of Fairchild Semiconductor - Lécuyer, Brock
+    - Why is Maxwell's Theory so hard to understad? - Freeman J. Dyson
+    - C.N. Yang and Contemporary Mathematics - D. Z. Zhang
 
 
   - [Going Critical - Melting Asphalt](https://meltingasphalt.com/interactive/going-critical/)
