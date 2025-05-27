@@ -59,22 +59,37 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
   - **Articles**
     - [The Square Cat - E. Putterman, O. Raz](https://arxiv.org/pdf/0801.0926)
+    - [False Onsager relations - M. Campisi](https://arxiv.org/pdf/2301.01645)
+    - [Memory formation in matter](https://hal.science/hal-03967453/document)
     - The works of E. T. Jaynes
       - [The Minimum Entropy Production Principle - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/min.ent.prod.pdf)
       - [Probability in Quantum Theory - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/prob.in.qm.pdf)
     - [Stochastic Electrodynamics: The closest classical approximation to quantum theory - T. H. Boyer](https://arxiv.org/pdf/1903.00996)
+    - [The Classical Bloch Equations  - Frimmer, Novotny](https://arxiv.org/pdf/1410.0710)
 
 
+    - Determinism, Independence, and Objectivity are Incompatible - Ionicioiu, Mann
     - The Reason for Antiparticles - Richard P. Feynman
     - What is Spin? - Hans C. Ohanian
     - Skateboard flips and topological tricks in SU(2)
+
     - Information, physics, quantum: the search for link - John A. Wheeler
+    - [The physics of forgetting - Plenio, Vitelli](https://arxiv.org/pdf/quant-ph/0103108)
     - Bringing Home the Atomic World - N. D. Mermin
     - The Quantum Meausrement Problem: State of Play - David Wallace
     - Classical Electrodynamics in Terms of Direct Interparticle Action - Feynman, Wheeler
-      - Relativistic non-instantaneous action-at-a-distance interactions - Domingo Martinez
+    - Relativistic non-instantaneous action-at-a-distance interactions - Domingo Martinez
+    - [Relativistic computation - Andréka, Madarasz](https://core.ac.uk/download/pdf/163103155.pdf)
+
     - [Prime Number Decomposition, the Hyperbolic Function and Multi-Path Michelson Interferometers - Tamma](https://link.springer.com/article/10.1007/s10701-010-9522-3) 
     - [Enumerative Methods in Quantum Electrodynamics](https://arxiv.org/pdf/2011.04291)
+    - [“Why the quantum?”, Bananaworld - Myrthe Scheepers](https://www.math.ru.nl/~landsman/Myrthe.pdf)
+    - [Information Decomposition Diagrams Applied beyond Shannon Entropy - Fedrizzi, Skerlak](https://arxiv.org/pdf/2202.09393)
+    - [Information complementarity in quantum physics - ](https://arxiv.org/pdf/1002.2451)
+
+    - [QUANTIZATION METHODS: A GUIDE FOR PHYSICISTS AND ANALYSTS - Ali, Engles](https://arxiv.org/pdf/math-ph/0405065)
+    - [Lectures on the Geometry of Quantization - Bates, Weinstein](https://math.berkeley.edu/~alanw/GofQ.pdf)
+    - [QFT, RG, AND ALL THAT, FOR MATHEMATICIANS, IN ELEVEN PAGES - ABDELMALEK ABDESSELAM](https://arxiv.org/pdf/1311.4897)
 
 
     - [The Frauchiger-Renner paradox - Ian Koot](https://www.math.ru.nl/~landsman/IanKoot2019.pdf)
@@ -89,6 +104,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Possible Kinematics - Bacry, Levy-Leblond
     - Emergence of fractal geometries in the evolution of a metabolic enzyme - Sendker
     - The Electronic Partition Function Paradox - S. J. Strickler
+    - [Qualitative methods in condensed matter physics - Patmion, Karpov](https://arxiv.org/pdf/1912.02126)
 
     - On field lines, generally
       - [Covariant field lines: a geometrical approach to electrodynamics - Hadad, Kaminer](https://arxiv.org/pdf/2312.10367)
@@ -126,6 +142,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Entropic Physics - Ariel Caticha](https://www.arielcaticha.com/my-book-entropic-physics)
     - Quantum Theory: Concepts and Methods - Asher Peres
     - Quantum Theory: A Wide Spectrum - E. B. Manoukian
+    - Foundations of Quantum Mechanics since the Bell Inequalities - L. E. Ballentine
+    - From Classical to Quantum Shannon Theory - Mark M. Wilde
 
     - Geometric Mechanics (Part I and II) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
@@ -135,8 +153,12 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
-- [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
-- [Garret Sobczyk's page (geometric calculus)](http://www.garretstar.com/index.html)
+
+- Geometric Algebra
+  - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
+  - [Garret Sobczyk's page (geometric calculus)](http://www.garretstar.com/index.html)
+  - [Pertti Lounesto's page](https://users.aalto.fi/~ppuska/mirror/Lounesto/)
+
 - [What's New in Math](https://www.math.stonybrook.edu/~tony/whatsnew/)
   - [A non-commutative marriage system in the South Pacific](https://www.math.stonybrook.edu/~tony/whatsnew/oct09/vanuatu2.html)
   - [Math and the Musical Offering](https://www.math.stonybrook.edu/~tony/whatsnew/column/canons-0399/canon1.html)
@@ -153,7 +175,11 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Spinors and Descartes' theorem](https://www.danielmathews.info/wp-content/uploads/2023/10/spinors_and_descartes_theorem.pdf)
 
 - **Articles**
+  - [NUMBERS AS FUNCTIONS - Yuri I. Manin (With an motivation for quantum field theory)](https://arxiv.org/pdf/1312.5160)
+  - [Making Sense of the Legendre Transform](https://arxiv.org/pdf/0806.1147v2)
+  - [Reflexivity and Eigenform, The Shape of Process - Louis H. Kauffmann](https://homepages.math.uic.edu/~kauffman/ReflexPublished.pdf)
   - Differential Geometry of Music Perception - Himpel
+  - [A Conceptual Introduction to Hamiltonian Monte Carlo - M. Betancourt](https://arxiv.org/pdf/1701.02434)
   - John Baez's musical diaries
   - [Combinatorial Music Theory](http://andrewduncan.net/cmt/)
   - [Visual musicology](https://visual-musicology.com/)
@@ -161,6 +187,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Visualizing Music](https://www.ethanhein.com/wp/2011/visualizing-music/)
     - [C-flat and B-sharp](https://www.ethanhein.com/wp/2024/c-flat-and-b-sharp/)
 
+  - [Knot Logic - Louis H. Kauffmann](https://homepages.math.uic.edu/~kauffman/KnotLogic.pdf)
   - [A knot-theoretic tour of dimension four - Marton Beke, Kyle Hayden](https://arxiv.org/pdf/2501.03219)
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
@@ -171,6 +198,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Sign and Geometric Meaning of Curvature - M. Gromov](https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/177.pdf)
   - [Physical and geometric interpretations of the Riemann and Ricci Tensor](https://arxiv.org/pdf/gr-qc/0401099)
   - [The Penrose Tiling is a Quantum Error-Correcting Code - Li, Boyle](https://arxiv.org/pdf/2311.13040)
+  - [Reciprocal Space and Crystal Planes in Geometric Algebra - E. Hitzer](https://arxiv.org/pdf/1306.1824)
     
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
 
@@ -262,6 +290,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Research, what is it good for?](https://peripateticaxiom.blogspot.com/2008/01/research-huh-what-is-it-good-for.html)
 - [Kragen Javier Sitaker's sites](http://canonical.org/~kragen/)
   - [A paper algorithm notation](http://canonical.org/~kragen/sw/dev3/paperalgo)
+  
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
@@ -365,7 +394,12 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
 ##
 - **Electronics**
-  - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
+  - Analysis techniques
+    - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
+    - Fundamentals of Power Electronics -
+    - Generalized Time- and Transfer-Constant Circuit Analysis - Ali Hajimiri
+
+
   - Electrons and Holes - William Shockley
     - Theory of the Work Functions of Monovalent Metals - Wigner, Bardeen
   - Jim Williams
@@ -374,6 +408,9 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Dark (and Bright) Secrets of RF Design
   - [The myth of three capacitor values](https://www.signalintegrityjournal.com/articles/1589-the-myth-of-three-capacitor-values)
   - [The SCHEME-79 Lisp chip](https://worrydream.com/refs/Holloway_1980_-_The_SCHEME-79_Chip.pdf)
+  - [Positive Feedback blog](https://positivefb.com/blog/)
+    - [gm/Id methodology](https://positivefb.com/gm-id-methodology/)
+    - [Poles by Inspection, Zeros by Rejection](https://positivefb.com/2024/08/11/poles-by-inspection-zeros-by-rejection/)
 
 - **Machine Learning**
   - [Gail Weiss' page](https://gailweiss.github.io/index.html)
@@ -479,6 +516,9 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [The Use of Knowledge in Society - F. A. Hayek](https://edisciplinas.usp.br/pluginfile.php/4869389/mod_resource/content/1/hayek.pdf)
   - [You can't tell people anything](http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/)
   - [The Path to American Authoritarianism](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump)
+  - [The Patent Lawyer's Guide to Fascism on Individual Autonomy and Private Law](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=2353&context=nmlr)
+
+  - [On Deleuze's "The Fold: Leibniz and The Baroque"](https://onarchitecture.substack.com/p/on-the-fold?utm_medium=web)
 
 
 
@@ -495,6 +535,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [SEELE HQ - City of Play](https://cityofplay.substack.com/)
   - [Encapsuled - Michelangelo (Artist)](https://encapsuled.xyz/)
   - [HYPERSTITION, Abstract Dynamics](http://hyperstition.abstractdynamics.org/
+  - Meditations on The Tarot
 
   - [Neil Panchal's page](https://neil.computer/)
     - [U.S. Graphics Company](https://usgraphics.com/)
@@ -510,6 +551,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Lethe: The Art and Critique of Forgetting - Harald Weinrich
   - The Poetics of Space - Gaston Bachelard
   - Diaspora - Greg Egan
+  - The Incorporeal, the Limits of Materialism - Elizabeth Grosz
   - A Gramática do Tempo - Boaventura de Sousa dos Santos
   - O Discreto Charme da Magistocracia - Conrado Hubner Mendes
   - Male Fantasies (I and II) - Klaus Theweleit
@@ -549,15 +591,18 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - History of the Principle of Interference of Light - Nahum Kipnis
     - A brief history of Florentine physics from the 1920s to the end of the 1960s - Casalbuoni, Dominici, Mazzoni
     - The Man from the Future (Von Neumann biography) - Ananyo Bhattacharya
-    - Geons, Black Holes and Quantum Foam (J. Wheeler biography) - Kenneth Ford
     - The Stragest Man: Mystic of the Atom (Dirac biography) - Graham Farmelo
     - Genius: The Life and Science of Richard Feynman - James Gleick
     - True Genius: The Life and Science of John Bardeen - Hoddeson, Daitch (yikes!)
     - Isaac Newton - James Gleick
     - The Great Physicists from Galileo to Einstein - George Gamow
     - Genius Talk: Conversations With Nobel Scientists and Other Luminaries - Denis Brian
-    - [Dr. Wheeler in Wonderland](https://www.amphilsoc.org/blog/dr-wheeler-wonderland)
-    - [The Papers and Notebooks of John Archibald Wheeler]https://as.amphilsoc.org/repositories/2/resources/1844)
+
+    - John A. Wheeler
+      - Geons, Black Holes and Quantum Foam (J. Wheeler biography) - Kenneth Ford
+      - [Dr. Wheeler in Wonderland](https://www.amphilsoc.org/blog/dr-wheeler-wonderland)
+      - [The Papers and Notebooks of John Archibald Wheeler]https://as.amphilsoc.org/repositories/2/resources/1844)
+      - [John Archibald Wheeler: A Study of Mentoring in Modern Physics - Terry M. Christensen](https://archive.org/details/JohnArchibaldWheelerAStudyOfMentoringInModernPhysics/JohnArchibaldWheeler-AStudyInMentoring-Part01-PretextPages/page/n21/mode/2up)
 
     - Feynman and the visualization of space-time processes - Silvan S. Schweber
     - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
