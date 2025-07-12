@@ -119,6 +119,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
       - [Vorticity and the thermodynamic state in a gas flow](http://www.numdam.org/item/MSM_1952__119__1_0.pdf)
     - Thermostatics - Herbert Callen
     - [Statistical Mechanics (I and II) - Ryogo Kubo](https://emineter.wordpress.com/wp-content/uploads/2018/08/kubo_zbirka.pdf)
+    - The Logic of Thermostatistical Physics - Emch, Liu
+
 
     - What is Life? - Erwin Schrödinger
     - The Same and Not the Same - Roald Hoffmann
@@ -603,6 +605,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
       - [Dr. Wheeler in Wonderland](https://www.amphilsoc.org/blog/dr-wheeler-wonderland)
       - [The Papers and Notebooks of John Archibald Wheeler]https://as.amphilsoc.org/repositories/2/resources/1844)
       - [John Archibald Wheeler: A Study of Mentoring in Modern Physics - Terry M. Christensen](https://archive.org/details/JohnArchibaldWheelerAStudyOfMentoringInModernPhysics/JohnArchibaldWheeler-AStudyInMentoring-Part01-PretextPages/page/n21/mode/2up)
+      - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)
 
     - Feynman and the visualization of space-time processes - Silvan S. Schweber
     - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
