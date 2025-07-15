@@ -155,6 +155,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
+- [Albert Chern's seminar on Non-Euclidean Geometries](https://noneuclideanseminar.wpcomstaging.com/)
 
 - Geometric Algebra
   - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
