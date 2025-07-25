@@ -53,8 +53,6 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Edwin F. Taylor's page](https://www.eftaylor.com/index.html)
     - [When action is not least](https://www.eftaylor.com/pub/Gray&TaylorAJP.pdf)
 
-  - [Kirk McDonald's page](http://kirkmcd.princeton.edu/examples/)
-
   - **Optics**
 
     - Electron dynamics in complex time and complex space - Emilio Pisanty Alatorre
@@ -130,8 +128,6 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
       - [Vorticity and the thermodynamic state in a gas flow](http://www.numdam.org/item/MSM_1952__119__1_0.pdf)
     - Thermostatics - Herbert Callen
     - [Statistical Mechanics (I and II) - Ryogo Kubo](https://emineter.wordpress.com/wp-content/uploads/2018/08/kubo_zbirka.pdf)
-    - The Logic of Thermostatistical Physics - Emch, Liu
-
 
     - What is Life? - Erwin Schrödinger
     - The Same and Not the Same - Roald Hoffmann
@@ -166,7 +162,6 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
-- [Albert Chern's seminar on Non-Euclidean Geometries](https://noneuclideanseminar.wpcomstaging.com/)
 
 - Geometric Algebra
   - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
@@ -409,6 +404,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
 ##
 - **Electronics**
+
   - Analysis techniques
     - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
     - Fundamentals of Power Electronics -
@@ -431,6 +427,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Dark (and Bright) Secrets of RF Design
   - [The myth of three capacitor values](https://www.signalintegrityjournal.com/articles/1589-the-myth-of-three-capacitor-values)
   - [The SCHEME-79 Lisp chip](https://worrydream.com/refs/Holloway_1980_-_The_SCHEME-79_Chip.pdf)
+
+
   - [Positive Feedback blog](https://positivefb.com/blog/)
     - [gm/Id methodology](https://positivefb.com/gm-id-methodology/)
     - [Poles by Inspection, Zeros by Rejection](https://positivefb.com/2024/08/11/poles-by-inspection-zeros-by-rejection/)
@@ -653,7 +651,6 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
       - [Dr. Wheeler in Wonderland](https://www.amphilsoc.org/blog/dr-wheeler-wonderland)
       - [The Papers and Notebooks of John Archibald Wheeler]https://as.amphilsoc.org/repositories/2/resources/1844)
       - [John Archibald Wheeler: A Study of Mentoring in Modern Physics - Terry M. Christensen](https://archive.org/details/JohnArchibaldWheelerAStudyOfMentoringInModernPhysics/JohnArchibaldWheeler-AStudyInMentoring-Part01-PretextPages/page/n21/mode/2up)
-      - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)
 
     - Feynman and the visualization of space-time processes - Silvan S. Schweber
     - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
