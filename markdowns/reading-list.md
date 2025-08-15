@@ -28,6 +28,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [Michael Nielsen's page](https://michaelnielsen.org/blog/)
   - [Luca Cardelli's page](http://lucacardelli.name/)
     - [Type systems (fits on the PL section)](http://lucacardelli.name/papers/typesystems.pdf)
+  - [Yeng-Kheng Lim's page](https://sites.google.com/view/yenkhenglim/home)
+    - [General Relativity Notes](https://drive.google.com/file/d/1FtiRrNOQdm4xjBQs1cPy4oUWEbCksmYV/view)
 
   - [Gerard Westendorp's page](https://westy31.nl/)
     - [Dispersion free wavepackets](https://westy31.nl/WavePackets/Wavepackets.html)
@@ -167,6 +169,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
 - [Albert Chern's seminar on Non-Euclidean Geometries](https://noneuclideanseminar.wpcomstaging.com/)
+- [Vincent Bouchard's page](https://sites.ualberta.ca/~vbouchar/)
+  - [Elementary Differential Form](https://sites.ualberta.ca/~vbouchar/MATH315/notes.pdf) 
 
 - Geometric Algebra
   - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
