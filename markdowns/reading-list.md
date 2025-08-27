@@ -158,6 +158,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Foundations of Quantum Mechanics since the Bell Inequalities - L. E. Ballentine
     - From Classical to Quantum Shannon Theory - Mark M. Wilde
 
+    - Foundations of Classical Electrodynamics - Hehl, Obukhov
     - Geometric Mechanics (Part I and II) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Fly by Night Physics - A. Zee
@@ -206,6 +207,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [A knot-theoretic tour of dimension four - Marton Beke, Kyle Hayden](https://arxiv.org/pdf/2501.03219)
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
+  - [HOMOLOGY USING LINEAR ALGEBRA - JOSHUA DEAN](https://osebje.famnit.upr.si/~russ.woodroofe/joshua-dean.pdf)
+
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
   - [Riemannian Geometry: Definitions, Pictures and Results - Adam Marsh](https://arxiv.org/pdf/1412.2393)
@@ -224,6 +227,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   
 
 - **Books**
+  - Topology Illustrated - Peter Saveliev
   - [Combinatorics, the Art of Counting - Bruce E. Sagan](https://users.math.msu.edu/users/bsagan/Books/Aoc/final.pdf)
   - [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf)
   - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316)
@@ -231,6 +235,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Groupes - Georges Papy
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
     - The Dripping Faucet as a Model Chaotic System - Cristopher Shaw
+
+  - Partial Difference Equations - Lawrence Evans
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
   - Foliations and the Geometry of 3-manifolds - Danny Calegari
@@ -582,15 +588,22 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - Male Fantasies (I and II) - Klaus Theweleit
 
 
-  - [Andrew Stephenson's work on Kant](http://www.acstephenson.com/research.html)
+  - Making sense of Deleuze
+
     - Kant and the Philosophy of Mind: Perception, Reason and the Self - A. Gomes, A. Stephenson
 
-  - Making sense of Deleuze
+    - Spinoza's Philosophy
+      - Ethics - Spinoza
+      - [Mapping Spinoza's Ethics](https://ethica.bc.edu/#/
+      - [Kant on Spinoza: Transcendental Realism](https://gilmorejon.wordpress.com/2021/03/26/kant-on-spinoza-transcendental-realism/)
+
     - Difference and Repetition - Gilles Deleuze
     - Deleuze's Difference and Repetition Reader Guide - Joe Hughes
     - [Immanence and the Big Other](https://larvalsubjects.wordpress.com/2006/05/30/immanence-and-the-big-other/)
     - Peeling Potatoes or Grinding Lenses - Aristides Baltas
 
+    - From Sacher-Masoch to Masochism - Deleuze
+    - Rebirth through incest - Christian Kerslake
     - Anti-Oedipus - Gilles Deleuze, Félix Guattari
     - [0's review of Anti-Oedipus](https://www.goodreads.com/review/show/933113514?book_show_action=true&from_review_page=1)
     - Introdução à esquizoanálise n’O Anti-Édipo: as três tarefas - Amanda B. Soczek
