@@ -162,12 +162,14 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Geometric Mechanics (Part I and II) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Fly by Night Physics - A. Zee
+    - [The Structure and Interpretation of Classical Mechanics - Sussman, Wisdom, Mayer](https://www.fisica.net/mecanicaclassica/struture_and_interpretation_of_classical_mechanics_by_gerald_jay_sussman.pdf)
     
 ## Mathematics (Mostly geometry)
 
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
 - [Albert Chern's seminar on Non-Euclidean Geometries](https://noneuclideanseminar.wpcomstaging.com/)
+- [Oliver Knill's page](https://people.math.harvard.edu/~knill/index.html)
 
 - Geometric Algebra
   - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
@@ -227,16 +229,25 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   
 
 - **Books**
+  - The "standard curriculum"
+    - The Art Of Proof - Beck, Geoghegan
+    - [Math 13 — An Introduction to Abstract Mathematics](https://www.math.uci.edu/~mzeman/M13-19F/math-13-notes.pdf)
+    - [Math 1356 - An Introduction to Mathematical Reasoning](https://dummit.cos.northeastern.edu/teaching_fa22_1365.html)
+    - Undergraduate Analysis - Serge Lang
+    - Proofs / Real Analysis - Jay Cummings
+    - [Topology without Tears - SIDNEY A. MORRIS](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/morris.pdf)
+    - [A Companion to Lang's Algebra](https://math.berkeley.edu/~gbergman/.C.to.L/)
+    - Partial Differential Equations - Lawerence C. Evans
+
   - Topology Illustrated - Peter Saveliev
   - [Combinatorics, the Art of Counting - Bruce E. Sagan](https://users.math.msu.edu/users/bsagan/Books/Aoc/final.pdf)
   - [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf)
   - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316)
-  - Proofs - Jay Cummings
   - Groupes - Georges Papy
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
     - The Dripping Faucet as a Model Chaotic System - Cristopher Shaw
 
-  - Partial Difference Equations - Lawrence Evans
+  - Linear Algebra via Exterior Products - Sergei Winitzki
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
   - Foliations and the Geometry of 3-manifolds - Danny Calegari
@@ -677,6 +688,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [A Short History of Rocks: or, How to Invent Quantum Computing - David Wakeham](https://arxiv.org/pdf/2503.00005)
     - Why is Maxwell's Theory so hard to understad? - Freeman J. Dyson
     - C.N. Yang and Contemporary Mathematics - D. Z. Zhang
+    - [The Kolgomorov Reform of Mathematics Education int the USSR - A. Borovik](https://arxiv.org/pdf/2210.03574)
 
 
   - [Going Critical - Melting Asphalt](https://meltingasphalt.com/interactive/going-critical/)
