@@ -35,7 +35,9 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Dispersion free wavepackets](https://westy31.nl/WavePackets/Wavepackets.html)
     - [Electric circuit diagram equivalent of fields](https://westy31.nl/Electric.html)
     - [Spacetime tiangles](https://westy31.nl/SpaceTimeTriangles/Space_Time_Triangles.html)
-      
+
+  - [Probability Theory As Extended Logic](https://bayes.wustl.edu/)    
+
   - [John S. Denker's page]
     - [Modern Thermodynamics](https://www.av8n.com/physics/thermo/)
     - [See How it Flies](https://www.av8n.com/how/)
@@ -85,6 +87,8 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 
     - Information, physics, quantum: the search for link - John A. Wheeler
     - [The physics of forgetting - Plenio, Vitelli](https://arxiv.org/pdf/quant-ph/0103108)
+    - [Teaching Thermodynamics with the Quantum Volume - Ted Yu](https://pubs.acs.org/doi/10.1021/acs.jchemed.9b00742)
+
     - Bringing Home the Atomic World - N. D. Mermin
     - The Quantum Meausrement Problem: State of Play - David Wallace
     - Classical Electrodynamics in Terms of Direct Interparticle Action - Feynman, Wheeler
@@ -161,7 +165,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - From Classical to Quantum Shannon Theory - Mark M. Wilde
 
     - Foundations of Classical Electrodynamics - Hehl, Obukhov
-    - Geometric Mechanics (Part I and II) - Darryl D. Holm
+    - Geometric Mechanics (Part I, II and III) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Fly by Night Physics - A. Zee
     - [The Structure and Interpretation of Classical Mechanics - Sussman, Wisdom, Mayer](https://www.fisica.net/mecanicaclassica/struture_and_interpretation_of_classical_mechanics_by_gerald_jay_sussman.pdf)
