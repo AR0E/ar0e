@@ -75,10 +75,11 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - The works of E. T. Jaynes
       - [The Minimum Entropy Production Principle - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/min.ent.prod.pdf)
       - [Probability in Quantum Theory - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/prob.in.qm.pdf)
+     - Thermodynamics and Contact Geometry - Eivind Schneider
     - [Stochastic Electrodynamics: The closest classical approximation to quantum theory - T. H. Boyer](https://arxiv.org/pdf/1903.00996)
     - [The Classical Bloch Equations  - Frimmer, Novotny](https://arxiv.org/pdf/1410.0710)
     - [The Fascinating World of Landau-Lifshitz-Gilbert Equation](https://arxiv.org/pdf/1101.1005)
-
+    - [Gravitation, Gauge Theories and Differential Geometry - Eguchi, Gilkey and Hanson](https://empg.maths.ed.ac.uk/Activities/GT/EGH.pdf)
 
     - Determinism, Independence, and Objectivity are Incompatible - Ionicioiu, Mann
     - The Reason for Antiparticles - Richard P. Feynman
@@ -97,6 +98,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Between classical and quantum - N. P. Landsman](https://arxiv.org/pdf/quant-ph/0506082)
     - [Randomness? What randomness? - Klaas Landsman](https://arxiv.org/pdf/1908.07068)
     - [Relativistic causality in particle detector models](https://arxiv.org/pdf/2102.03408)
+    
 
     - [Prime Number Decomposition, the Hyperbolic Function and Multi-Path Michelson Interferometers - Tamma](https://link.springer.com/article/10.1007/s10701-010-9522-3) 
     - [Enumerative Methods in Quantum Electrodynamics](https://arxiv.org/pdf/2011.04291)
@@ -137,6 +139,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Thermostatics - Herbert Callen
     - [Statistical Mechanics (I and II) - Ryogo Kubo](https://emineter.wordpress.com/wp-content/uploads/2018/08/kubo_zbirka.pdf)
     - The Logic of Thermostatistical Physics - Emch, Liu
+    
 
 
     - What is Life? - Erwin Schrödinger
@@ -243,9 +246,14 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Math 1356 - An Introduction to Mathematical Reasoning](https://dummit.cos.northeastern.edu/teaching_fa22_1365.html)
     - Undergraduate Analysis - Serge Lang
     - Proofs / Real Analysis - Jay Cummings
+    - Mathematical Analysis I/II - Vladimir A. Zorich
+  
     - [Topology without Tears - SIDNEY A. MORRIS](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/morris.pdf)
     - [A Companion to Lang's Algebra](https://math.berkeley.edu/~gbergman/.C.to.L/)
     - Partial Differential Equations - Lawerence C. Evans
+
+    - Differential Forms in Algebraic Topology - Bott, Tu
+    - Spin Geometry - Christian Bar
 
   - Topology Illustrated - Peter Saveliev
   - [Combinatorics, the Art of Counting - Bruce E. Sagan](https://users.math.msu.edu/users/bsagan/Books/Aoc/final.pdf)
