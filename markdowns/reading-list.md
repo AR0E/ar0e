@@ -575,6 +575,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
   - [The Path to American Authoritarianism](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump)
   - [The Patent Lawyer's Guide to Fascism on Individual Autonomy and Private Law](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=2353&context=nmlr)
   - [Incel Theory](https://www.jean.land/objects/incels.html)
+  - [Estado, Política Industrial e Tecnológica - Niemeyer, Luiz M](https://www.proceedings.blucher.com.br/download-pdf/368/37255)
 
 
 
