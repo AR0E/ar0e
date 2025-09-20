@@ -165,6 +165,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - From Classical to Quantum Shannon Theory - Mark M. Wilde
 
     - Foundations of Classical Electrodynamics - Hehl, Obukhov
+    - Interpretation of Classical Electromagnetism - W. G. V. Rosser
     - Geometric Mechanics (Part I, II and III) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Fly by Night Physics - A. Zee
