@@ -584,6 +584,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [The Patent Lawyer's Guide to Fascism on Individual Autonomy and Private Law](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=2353&context=nmlr)
   - [Incel Theory](https://www.jean.land/objects/incels.html)
   - [Estado, Política Industrial e Tecnológica - Niemeyer, Luiz M](https://www.proceedings.blucher.com.br/download-pdf/368/37255)
+  - [How GDP hides Industrial Incline](https://www.palladiummag.com/2025/10/03/how-gdp-hides-industrial-decline/)
 
 
 
