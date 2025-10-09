@@ -130,6 +130,9 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
       - The magnetic field lines of a helical coil are not simple loops - M. Lieberherr
       - Lines of Force in Electric and Magnetic Fields - Joseph Slepian
 
+      - [Geometry and energy-aware decomposition of
+the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277)
+
   
   - **Books**
     - The works of Clifford Truesdell
