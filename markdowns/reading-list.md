@@ -225,6 +225,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
   - [HOMOLOGY USING LINEAR ALGEBRA - JOSHUA DEAN](https://osebje.famnit.upr.si/~russ.woodroofe/joshua-dean.pdf)
+  - [Phase Plots of Complex Functions:a Journey in Illustration](https://arxiv.org/pdf/1007.2295)
 
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
@@ -240,7 +241,11 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [Combinatorics - Joe Moeller](https://joe-moeller.com/2019/10/07/combinatorics-lecture-1-26-sep-2019/)
   - [Is there a natural topology for sets of topological spaces?](https://mathoverflow.net/questions/484088/is-there-a-natural-topology-for-sets-of-topological-spaces)
   - [On Tree Automata, Generating Functions, and Differential Equations](https://arxiv.org/pdf/2407.08218)
+  - [Analytic Combinatorics - Flajolet, Sedgwick](https://ic.unicamp.br/~celio/peer2peer/math/bitmap-algorithms/flajolet-sedgewick-analytic-combinatorics.pdf)
+
+
   - [On the unfolding of simple closed curves - John Pardon](https://arxiv.org/pdf/0809.1404)
+  - [The Two cultures of mathematics and biology](https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/)
   
 
 - **Books**
