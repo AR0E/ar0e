@@ -221,6 +221,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
     - [C-flat and B-sharp](https://www.ethanhein.com/wp/2024/c-flat-and-b-sharp/)
 
   - [Knot Logic - Louis H. Kauffmann](https://homepages.math.uic.edu/~kauffman/KnotLogic.pdf)
+  - [Energy of Knots and Conformal Geometry](http://xdel.ru/downloads/lgbooks/%28K%20%26%20E%20Series%20on%20Knots%20and%20Everything%2C%20V.%2033%29%20Jun%20O%27Hara-Energy%20of%20knots%20and%20conformal%20geometry-World%20Scientific%20Publishing%20Company%20%282003%29.pdf)
   - [A knot-theoretic tour of dimension four - Marton Beke, Kyle Hayden](https://arxiv.org/pdf/2501.03219)
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
