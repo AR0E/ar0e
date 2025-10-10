@@ -13,7 +13,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
 ## Physics
 
   - [John Baez's page (Read everything he's ever wrote)](https://math.ucr.edu/home/baez/)
-  - [Water structure and science](https://water.lsbu.ac.uk/water/water_structure_science.html)
+  - [Water structure and science](https://water.lsbu.ac.uk/water/water_structure_science.html) de
     - [Water's unexpected properties](https://water.lsbu.ac.uk/water/water_unexpected.html)
     - [Water Models](https://water.lsbu.ac.uk/water/water_models.html)
   - [Cartan's Corner - R. M. Keihn](http://www22.pair.com/csdc/car/carhomep.htm)
@@ -260,6 +260,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   
     - [Topology without Tears - SIDNEY A. MORRIS](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/morris.pdf)
     - [A Companion to Lang's Algebra](https://math.berkeley.edu/~gbergman/.C.to.L/)
+    - Ordinary Differential Equations - V.I. Arnold
     - Partial Differential Equations - Lawerence C. Evans
 
     - Differential Forms in Algebraic Topology - Bott, Tu
