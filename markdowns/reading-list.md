@@ -115,15 +115,21 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Quantum probability theory and the foundations of quantum mechanics - J. Fröhlic and B. Schubnel
     - Presentism and Quantum Gravity - Bradley Monton
     - Notes on Quantum Mechanics - David V. Schroeder
+
     - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
     - Hamiltonian description of the ideal fluid - P. J. Morrison
+
     - [Feynman's Fabulous Formula](https://golem.ph.utexas.edu/category/2015/06/feynmans_fabulous_formula.html)
     - An Elementary Introduction to the Geometry of Quantum States with Pictures - Avron, Kenneth
     - An Introduction to Spontaneous Symmetry Breaking - Beekman, Rademaker, Wezel
     - Possible Kinematics - Bacry, Levy-Leblond
+
     - Emergence of fractal geometries in the evolution of a metabolic enzyme - Sendker
     - The Electronic Partition Function Paradox - S. J. Strickler
     - [Qualitative methods in condensed matter physics - Patmion, Karpov](https://arxiv.org/pdf/1912.02126)
+    - [Berry Phase Effects on Electronic Properties - Xiao, Chang, Niu](https://arxiv.org/pdf/0907.2021)
+    - [Topological and geometrical aspects of band theory - Cayssol, Fuchs]
+    - [Topological active matter - Shankar, Souslov](https://arxiv.org/pdf/2010.00364)
 
     - On field lines, generally
       - [Covariant field lines: a geometrical approach to electrodynamics - Hadad, Kaminer](https://arxiv.org/pdf/2312.10367)
@@ -172,8 +178,11 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
 
     - Foundations of Classical Electrodynamics - Hehl, Obukhov
     - Interpretation of Classical Electromagnetism - W. G. V. Rosser
+    
     - Geometric Mechanics (Part I, II and III) - Darryl D. Holm
+    - Foundations of Mechanics - Abraham, Marsden
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
+    
     - Fly by Night Physics - A. Zee
     - [The Structure and Interpretation of Classical Mechanics - Sussman, Wisdom, Mayer](https://www.fisica.net/mecanicaclassica/struture_and_interpretation_of_classical_mechanics_by_gerald_jay_sussman.pdf)
     
@@ -223,6 +232,9 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [Knot Logic - Louis H. Kauffmann](https://homepages.math.uic.edu/~kauffman/KnotLogic.pdf)
   - [Energy of Knots and Conformal Geometry](http://xdel.ru/downloads/lgbooks/%28K%20%26%20E%20Series%20on%20Knots%20and%20Everything%2C%20V.%2033%29%20Jun%20O%27Hara-Energy%20of%20knots%20and%20conformal%20geometry-World%20Scientific%20Publishing%20Company%20%282003%29.pdf)
   - [A knot-theoretic tour of dimension four - Marton Beke, Kyle Hayden](https://arxiv.org/pdf/2501.03219)
+  - [Ribbons: Their Geometry and Topology - C. K. Au1 and T. C. Woo](https://www.cad-journal.net/files/vol_1/CAD_1(1-4)_2004_1-6.pdf)
+
+
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
   - [HOMOLOGY USING LINEAR ALGEBRA - JOSHUA DEAN](https://osebje.famnit.upr.si/~russ.woodroofe/joshua-dean.pdf)
@@ -275,6 +287,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
     - The Dripping Faucet as a Model Chaotic System - Cristopher Shaw
 
   - Linear Algebra via Exterior Products - Sergei Winitzki
+  - Matrix Analysis - Horn, Johnson
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
   - Foliations and the Geometry of 3-manifolds - Danny Calegari
