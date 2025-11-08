@@ -107,6 +107,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Information complementarity in quantum physics - ](https://arxiv.org/pdf/1002.2451)
 
     - [QUANTIZATION METHODS: A GUIDE FOR PHYSICISTS AND ANALYSTS - Ali, Engles](https://arxiv.org/pdf/math-ph/0405065)
+    - [Quantum Theory 2024 - Guo Chuan Thiang](http://faculty.bicmr.pku.edu.cn/~guochuanthiang/QT24.html)
     - [Lectures on the Geometry of Quantization - Bates, Weinstein](https://math.berkeley.edu/~alanw/GofQ.pdf)
     - [QFT, RG, AND ALL THAT, FOR MATHEMATICIANS, IN ELEVEN PAGES - ABDELMALEK ABDESSELAM](https://arxiv.org/pdf/1311.4897)
 
@@ -189,6 +190,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
 ## Mathematics (Mostly geometry)
 
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
+  - [Cartan Formalism](https://web.williams.edu/Mathematics/it3/texts/cartan_formalism.pdf)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
 - [Albert Chern's seminar on Non-Euclidean Geometries](https://noneuclideanseminar.wpcomstaging.com/)
 - [Oliver Knill's page](https://people.math.harvard.edu/~knill/index.html)
@@ -239,6 +241,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
   - [HOMOLOGY USING LINEAR ALGEBRA - JOSHUA DEAN](https://osebje.famnit.upr.si/~russ.woodroofe/joshua-dean.pdf)
   - [Phase Plots of Complex Functions:a Journey in Illustration](https://arxiv.org/pdf/1007.2295)
+  https://web.williams.edu/Mathematics/it3/texts/
 
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
@@ -299,7 +302,9 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - An Illustrated Introduction to Topology and Homotopy - Sasho Kalajdzieveski
   - Visual Group Theory - Nathan Carter
   - Complex Analysis, the geometric viewpoint - Steven G. Krantz
+
   - [Exterior Calculus in Graphics for Beginners - Wang, Chern](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
+  - DIFFERENTIAL FORMS and the GEOMETRY of GENERAL RELATIVITY - Tevian Dray
   - [Topics in Spectral Geometry - Levitin, Mangoubi, Polterovich](https://www.michaellevitin.net/Book/TSG230529.pdf)
   - Geometric Fundamentals of Robotics - J. M. Selig
   - Morse Theory, a visual guide - Gilles Castel
@@ -507,8 +512,8 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [The Monge-Ampère equation and its link to optimal transportation](https://arxiv.org/pdf/1310.6167)
   - [Beyond Linear Response: Equivalence between Thermodynamic Geometry and Optimal Transport](https://arxiv.org/pdf/2404.01286)
   - [Modal's GPU Glossary](https://modal.com/gpu-glossary/device-software)
-  - [Thinking Like Transformers - Weiss, Goldberg, Yahav](https://srush.github.io/raspy/)
-  - [Learning a Manifold of Fonts (Interactive Demo)](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html#interactive_demo)
+  - [Thinking Like Transformers - Weiss, Goldberg, Yahav](httpsAAAAAAAAAAAA://srush.github.io/raspy/)
+  - [Learning a Manifold of Fonts (Interactive Demo)](http://ve-cg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html#interactive_demo)
   - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding)
   - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
   - [A Geometric Modeling of Occam's Razor in Deep Learning](https://arxiv.org/pdf/1905.11027)
