@@ -250,6 +250,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [Reciprocal Space and Crystal Planes in Geometric Algebra - E. Hitzer](https://arxiv.org/pdf/1306.1824)
     
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
+  - [Puzzling Through Exact Sequences](https://www.3blue1brown.com/content/blog/exact-sequence-picturebook/PuzzlingThroughExactSequences.pdf)
 
   - [Combinatorics - Joe Moeller](https://joe-moeller.com/2019/10/07/combinatorics-lecture-1-26-sep-2019/)
   - [Is there a natural topology for sets of topological spaces?](https://mathoverflow.net/questions/484088/is-there-a-natural-topology-for-sets-of-topological-spaces)
@@ -368,6 +369,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
 - Compact Data Structures - Navarro
 - CODE - Charles Petzold
 - [YSC229: Imperative Algorithms and DS in OCAML](https://ilyasergey.net/YSC2229/)
+- [Functional Programming in OCaml](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/)
 - ["What The Hardware Does" is not What Your Program Does: Uninitialized Memory](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
 
