@@ -116,6 +116,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - Quantum probability theory and the foundations of quantum mechanics - J. Fröhlic and B. Schubnel
     - Presentism and Quantum Gravity - Bradley Monton
     - Notes on Quantum Mechanics - David V. Schroeder
+    - Geometric Quantum Mechanics - Dorje Brody, Lane Hughston
 
     - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
     - Hamiltonian description of the ideal fluid - P. J. Morrison
@@ -132,10 +133,10 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Topological and geometrical aspects of band theory - Cayssol, Fuchs]
     - [Topological active matter - Shankar, Souslov](https://arxiv.org/pdf/2010.00364)
 
-    - On field lines, generally
-      - [Covariant field lines: a geometrical approach to electrodynamics - Hadad, Kaminer](https://arxiv.org/pdf/2312.10367)
-      - The magnetic field lines of a helical coil are not simple loops - M. Lieberherr
-      - Lines of Force in Electric and Magnetic Fields - Joseph Slepian
+    - Hodge Decompositionand Computational Electromagnetics - Peter Kotiuga
+    - [Covariant field lines: a geometrical approach to electrodynamics - Hadad, Kaminer](https://arxiv.org/pdf/2312.10367)
+    - The magnetic field lines of a helical coil are not simple loops - M. Lieberherr
+    - Lines of Force in Electric and Magnetic Fields - Joseph Slepian
 
       - [Geometry and energy-aware decomposition of
 the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277)
@@ -183,6 +184,8 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
     - Geometric Mechanics (Part I, II and III) - Darryl D. Holm
     - Foundations of Mechanics - Abraham, Marsden
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
+    - Symplectic Techniques in Physics - Guillemin, Sternberg
+    - Lectures on Poisson Geometry - Crainic, Fernandes, Marcut
     
     - Fly by Night Physics - A. Zee
     - [The Structure and Interpretation of Classical Mechanics - Sussman, Wisdom, Mayer](https://www.fisica.net/mecanicaclassica/struture_and_interpretation_of_classical_mechanics_by_gerald_jay_sussman.pdf)
@@ -298,10 +301,12 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - Dastellende Geometrie, 3rd Ed. - Fritz Rehbock
   - How Surfaces Intersect in Space - J. Scott Carter
   - From Geometry to Topology - H. Graham Flegg
+  - Geometric Structures on Manifolds - William Goldman
   - Geometric Measure Theory - Frank Morgan
   - An Illustrated Introduction to Topology and Homotopy - Sasho Kalajdzieveski
   - Visual Group Theory - Nathan Carter
   - Complex Analysis, the geometric viewpoint - Steven G. Krantz
+  - [THE RISING SEA, Foundations of Algebraic Geometry - Ravi Vakil](https://math.stanford.edu/~vakil/216blog/FOAGjul2724public.pdf)
 
   - [Exterior Calculus in Graphics for Beginners - Wang, Chern](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
   - DIFFERENTIAL FORMS and the GEOMETRY of GENERAL RELATIVITY - Tevian Dray
@@ -475,7 +480,9 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
 - **Electronics**
   - Analysis techniques
     - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
-    - Fundamentals of Power Electronics -
+    - [Structured Electronics Design: A Conceptual Approach to Amplifier Design - Anton Montagne](https://books.open.tudelft.nl/home/catalog/view/162/279/525)
+    - Ultra Low Power Bioelectronics - Raul Sarpeshkar
+    - Fundamentals of Power Electronics
     - Generalized Time- and Transfer-Constant Circuit Analysis - Ali Hajimiri
     - Not Your Usual Analog Electronics Course - Brian Hong
     - Intuitive Analog Circuit Design - M. T. Thompson
@@ -483,7 +490,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   
   - [Ali Sheikholeslami's page](https://www.eecg.utoronto.ca/~ali/)
     - [Circuit Intuitions weekly series](https://www.eecg.utoronto.ca/~ali/intuitions.html)
-
+  - [SLiCap circuit analysis tool](https://www.slicap.org/)
 
   - Electrons and Holes - William Shockley
     - Theory of the Work Functions of Monovalent Metals - Wigner, Bardeen
