@@ -132,11 +132,13 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Berry Phase Effects on Electronic Properties - Xiao, Chang, Niu](https://arxiv.org/pdf/0907.2021)
     - [Topological and geometrical aspects of band theory - Cayssol, Fuchs]
     - [Topological active matter - Shankar, Souslov](https://arxiv.org/pdf/2010.00364)
+    - [Mobius Aromaticity](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/mobius.htm)
 
-    - Hodge Decompositionand Computational Electromagnetics - Peter Kotiuga
+    - Hodge Decomposition and Computational Electromagnetics - Peter Kotiuga
     - [Covariant field lines: a geometrical approach to electrodynamics - Hadad, Kaminer](https://arxiv.org/pdf/2312.10367)
     - The magnetic field lines of a helical coil are not simple loops - M. Lieberherr
     - Lines of Force in Electric and Magnetic Fields - Joseph Slepian
+    - [Traffic Noise and the Hyperbolic Plane - Gibbons, Warnick](https://arxiv.org/pdf/0911.1926)
 
       - [Geometry and energy-aware decomposition of
 the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277)
@@ -238,6 +240,8 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [Energy of Knots and Conformal Geometry](http://xdel.ru/downloads/lgbooks/%28K%20%26%20E%20Series%20on%20Knots%20and%20Everything%2C%20V.%2033%29%20Jun%20O%27Hara-Energy%20of%20knots%20and%20conformal%20geometry-World%20Scientific%20Publishing%20Company%20%282003%29.pdf)
   - [A knot-theoretic tour of dimension four - Marton Beke, Kyle Hayden](https://arxiv.org/pdf/2501.03219)
   - [Ribbons: Their Geometry and Topology - C. K. Au1 and T. C. Woo](https://www.cad-journal.net/files/vol_1/CAD_1(1-4)_2004_1-6.pdf)
+  - [On convex kinematics: a resurrection of Holditch’s Theorem - Jacobson, Balz](https://www.parabola.unsw.edu.au/sites/default/files/2025-08/vol61_no2_4_1.pdf)
+
 
 
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
@@ -604,6 +608,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
   - [A Terra sem mal, o paraíso Tupi-Guarani](https://tupi.fflch.usp.br/sites/tupi.fflch.usp.br/files/NAVARRO,%20E.A.%20A%20terra%20sem%20mal,%20o%20par%C3%A1iso%20tupi%20guarani..pdf)
   - [Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)
+  - [Fé capitalista: Como os EUA usaram a religião para combater o comunismo no Brasil](https://www.intercept.com.br/2025/04/07/como-os-eua-usaram-a-religiao-para-combater-o-comunismo-no-brasil/)
   - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
   - The Age of Artificial Intelligence: An Exploration (Essay book by Vernon Press)
     - Human and Intelligent Machines: Co-Evolution, Fusion or Replacement? - David Pearce
@@ -614,6 +619,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [Incel Theory](https://www.jean.land/objects/incels.html)
   - [Estado, Política Industrial e Tecnológica - Niemeyer, Luiz M](https://www.proceedings.blucher.com.br/download-pdf/368/37255)
   - [How GDP hides Industrial Incline](https://www.palladiummag.com/2025/10/03/how-gdp-hides-industrial-decline/)
+  - [Planning and Anarchy - Jasper Bernes](https://jasperbernes.net/wp-content/uploads/2020/02/1190053.pdf)
 
 
 
@@ -645,6 +651,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - Color: a viusal history from newton to modern color matching
   - [text-mode](https://text-mode.org/)
   - Pinturas de Rafael Hayashi, 2014-2023
+  - [Rex Research, a very weird but nice site](https://rexresearch.com/)
 
   - Lethe: The Art and Critique of Forgetting - Harald Weinrich
   - The Poetics of Space - Gaston Bachelard
@@ -653,6 +660,7 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - A Gramática do Tempo - Boaventura de Sousa dos Santos
   - O Discreto Charme da Magistocracia - Conrado Hubner Mendes
   - Male Fantasies (I and II) - Klaus Theweleit
+  - Crystallizing Public Opinion - Edward L. Bernays
 
 
   - Making sense of Deleuze
