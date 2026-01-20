@@ -266,6 +266,8 @@ the Navier-Stokes equation: A Port-Hamiltonian](https://arxiv.org/pdf/2103.02277
   - [Is there a natural topology for sets of topological spaces?](https://mathoverflow.net/questions/484088/is-there-a-natural-topology-for-sets-of-topological-spaces)
   - [On Tree Automata, Generating Functions, and Differential Equations](https://arxiv.org/pdf/2407.08218)
   - [Analytic Combinatorics - Flajolet, Sedgwick](https://ic.unicamp.br/~celio/peer2peer/math/bitmap-algorithms/flajolet-sedgewick-analytic-combinatorics.pdf)
+  - [The Art of Bijective Combinatorics](https://www.viennot.org/abjc.html)
+    - [Slides for Ramanujan identities](https://www.viennot.org/wa_res/files/epilogue_imsc19.pdf) 
 
 
   - [On the unfolding of simple closed curves - John Pardon](https://arxiv.org/pdf/0809.1404)
