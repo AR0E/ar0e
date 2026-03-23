@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Notes Archive</title>
+    <link rel="stylesheet" href="../assets/style.css" />
+  </head>
+  <body data-page="notes-archive">
+    <main class="shell narrow">
+      <header class="site-header">
+        <div class="header-row">
+          <div>
+            <div class="eyebrow">~ / <a href="../index.html">Home</a> / Notes</div>
+            <h1 class="site-title">Notes</h1>
+            <p class="lede">
+              Markdown notes with KaTeX-rendered LaTeX, Mermaid diagrams, syntax-highlighted code,
+              and optional Typst blocks compiled to SVG.
+            </p>
+          </div>
+          <div class="site-controls panel panel-controls compact-controls theme-only-controls">
+            <button id="theme-toggle" class="mode-button full-width" type="button">Dark mode</button>
+          </div>
+        </div>
+        <nav class="subnav">
+          <a href="../index.html">Home</a>
+          <a href="./index.html" aria-current="page">Notes</a>
+          <a href="../resources/index.html">Papers / talks / etc</a>
+        </nav>
+      </header>
+
+      <section class="panel">
+        <div id="archive-notes"></div>
+      </section>
+    </main>
+
+    <script type="module" src="../assets/site.js"></script>
+  </body>
+</html>

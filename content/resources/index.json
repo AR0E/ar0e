@@ -1,0 +1,54 @@
+[
+  {
+    "type": "publication",
+    "title": "A Study on Surface Reconstruction from Signed Distance Data (Part 1)",
+    "date": "2024-08-06",
+    "source": "MIT SGI Blog",
+    "url": "https://summergeometry.org/sgi2024/a-study-on-surface-reconstruction-from-signed-distance-data-part-1/",
+    "tags": [
+      "geometry processing",
+      "SDF"
+    ],
+    "summary": "Notes on reconstructing surfaces from signed-distance data and numerical representations.",
+    "tone": "blue"
+  },
+  {
+    "type": "publication",
+    "title": "Bridging Curvatures: From Riemann to Gauss",
+    "date": "2024-07-22",
+    "source": "MIT SGI Blog",
+    "url": "https://summergeometry.org/sgi2024/bridging-curvatures-from-riemann-to-gauss/",
+    "tags": [
+      "geometry",
+      "curvature"
+    ],
+    "summary": "A geometric bridge between curvature notions from differential geometry.",
+    "tone": "rose"
+  },
+  {
+    "type": "publication",
+    "title": "What’s a Neural Function?",
+    "date": "2024-08-09",
+    "source": "MIT SGI Blog",
+    "url": "https://summergeometry.org/sgi2024/whats-a-neural-function/",
+    "tags": [
+      "machine learning",
+      "notes"
+    ],
+    "summary": "A compact explainer around neural functions and representation viewpoints.",
+    "tone": "teal"
+  },
+  {
+    "type": "reading list",
+    "title": "The Definitive Reading List",
+    "date": "2026-03-22",
+    "source": "Internal note",
+    "noteSlug": "reading-list",
+    "tags": [
+      "reading",
+      "index"
+    ],
+    "summary": "An internal note organized into collapsible subject sections with a sticky TOC.",
+    "tone": "amber"
+  }
+]

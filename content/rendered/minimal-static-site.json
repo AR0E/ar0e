@@ -1,0 +1,34 @@
+{
+  "slug": "minimal-static-site",
+  "title": "A minimal static site with LaTeX, Mermaid, and optional Typst",
+  "date": "2026-03-22",
+  "tags": [
+    "static",
+    "math",
+    "notes"
+  ],
+  "html": "<p>This starter keeps the site <strong>very close to the feel of neil.computer</strong>: text-forward, fast, mostly boxes and tables, and deployable as static files.</p><details class=\"note-section\" id=\"section-what-is-included\" open=\"\"><summary>What is included</summary><div class=\"note-section-body\"><ul>\n<li>A homepage with a personal information box</li>\n<li>Dedicated <strong>CV</strong> and <strong>Thesis</strong> PDF links in that box</li>\n<li>A notes archive and individual note pages</li>\n<li>Markdown notes with inline math like <span class=\"math\">\\(e^{i\\pi} + 1 = 0\\)</span></li>\n<li>Display math such as</li>\n</ul><div class=\"math\">$$\n\\int_0^1 x^2\\,dx = \\frac{1}{3}\n$$</div><ul>\n<li>Mermaid diagrams</li>\n<li>Syntax-highlighted code blocks</li>\n<li>Optional Typst block rendering via precompiled SVG</li>\n</ul><div class=\"callout\"><strong>Tip</strong><div>This is the most robust low-infrastructure setup: GitHub Pages for hosting, browser-side Markdown + KaTeX for notes, and a tiny local script to compile Typst blocks to SVG when you need them.</div></div></div></details><details class=\"note-section\" id=\"section-mermaid-example\" open=\"\"><summary>Mermaid example</summary><div class=\"note-section-body\"><div class=\"mermaid\">graph TD\n  A[Write note in Markdown] --&gt; B[LaTeX rendered by KaTeX]\n  A --&gt; C[Mermaid rendered in browser]\n  A --&gt; D[Typst block optionally compiled to SVG]\n</div></div></details><details class=\"note-section\" id=\"section-code-example\" open=\"\"><summary>Code example</summary><div class=\"note-section-body\"><pre><code class=\"language-python\">def transfer_function(r, c, s):\n    return 1 / (1 + r * c * s)\n</code></pre></div></details><details class=\"note-section\" id=\"section-typst-example\" open=\"\"><summary>Typst example</summary><div class=\"note-section-body\"><div class=\"typst-block\"><p class=\"muted\">No compiled Typst preview found for this block yet. Run <code>python tools/build_typst_snippets.py</code> and then <code>python tools/build_notes.py</code>.</p><details class=\"typst-source\"><summary>Show Typst source</summary><pre><code class=\"language-markdown\">#set page(width: auto, height: auto, margin: 12pt)\n#set text(size: 11pt)\n\n$ sum_(k=1)^n k = (n(n+1))/2 $\n</code></pre></details></div><p>The page will render a compiled SVG preview for Typst blocks <strong>if</strong> you run the helper script after installing the Typst CLI. Otherwise it shows the Typst source cleanly and tells you what command to run.</p></div></details><details class=\"note-section\" id=\"section-why-this-structure\" open=\"\"><summary>Why this structure</summary><div class=\"note-section-body\"><p>A fully live in-browser Typst compiler is possible with typst.ts, but its own docs frame static SVG rendering as a strong option for websites, and the browser path is significantly heavier. This starter favors the smallest setup that still gives you nice results for technical notes.</p></div></details>",
+  "toc": [
+    {
+      "id": "section-what-is-included",
+      "label": "What is included"
+    },
+    {
+      "id": "section-mermaid-example",
+      "label": "Mermaid example"
+    },
+    {
+      "id": "section-code-example",
+      "label": "Code example"
+    },
+    {
+      "id": "section-typst-example",
+      "label": "Typst example"
+    },
+    {
+      "id": "section-why-this-structure",
+      "label": "Why this structure"
+    }
+  ],
+  "requiresMermaid": true
+}

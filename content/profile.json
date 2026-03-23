@@ -1,0 +1,77 @@
+{
+  "name": "Artur Boyago",
+  "occupation": "Computational Physicist / Electrical Engineer",
+  "previous": [
+    "MIT Summer Geometry Initiative fellow",
+    "Lead designer at EESC-USP Guepardo",
+    "Project lead for a polyphonic analog synthesizer build"
+  ],
+  "employer": {
+    "name": "Universidade de São Paulo (IFSC / EESC)",
+    "url": "https://www5.usp.br/"
+  },
+  "location": "São Carlos, Brazil",
+  "education": [
+    "BS in Physics, minor in Computer Science (ongoing)",
+    "Industrial Automation and Electronics, ETEC Takashi Morita"
+  ],
+  "email": "ar.bb@usp.br",
+  "phone": "+55 (11) 98977-9191",
+  "documents": [
+    {
+      "label": "CV",
+      "url": "./docs/cv.pdf"
+    },
+    {
+      "label": "Technical Thesis",
+      "url": "./docs/technical-thesis.pdf"
+    },
+    {
+      "label": "Bachelor Thesis",
+      "url": "./docs/bachelor-thesis.pdf"
+    },
+    {
+      "label": "PhD Thesis",
+      "url": "./docs/phd-thesis.pdf"
+    }
+  ],
+  "now": [
+    "Working across geometry processing, circuit design, and research notes.",
+    "Keeping the site static, text-first, and easy to host anywhere.",
+    "Using notes as a place for math, diagrams, reading lists, and technical scratch work."
+  ],
+  "projects": [
+    {
+      "label": "Notes archive",
+      "url": "./notes/index.html",
+      "description": "Math, geometry, electronics, and scratch-work notes.",
+      "tone": "blue"
+    },
+    {
+      "label": "Papers / talks / etc",
+      "url": "./resources/index.html",
+      "description": "Publications, talks, reading lists, and external writing.",
+      "tone": "violet"
+    },
+    {
+      "label": "Reading list",
+      "url": "./notes/view.html?slug=reading-list",
+      "description": "A long-form list with collapsible sections and a table of contents.",
+      "tone": "amber"
+    }
+  ],
+  "links": [
+    {
+      "label": "Website",
+      "url": "https://ar0e.github.io"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/arbb1"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:ar.bb@usp.br"
+    }
+  ]
+}

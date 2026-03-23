@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Papers / Talks / Etc</title>
+    <link rel="stylesheet" href="../assets/style.css" />
+  </head>
+  <body data-page="resources-archive">
+    <main class="shell">
+      <header class="site-header">
+        <div class="header-row">
+          <div>
+            <div class="eyebrow">~ / <a href="../index.html">Home</a> / Papers / talks / etc</div>
+            <h1 class="site-title">Papers / talks / etc</h1>
+            <p class="lede">
+              Publications, talks, references, and long-form notes with collapsible sections and quick navigation.
+            </p>
+          </div>
+          <div class="site-controls panel panel-controls compact-controls theme-only-controls">
+            <button id="theme-toggle" class="mode-button full-width" type="button">Dark mode</button>
+          </div>
+        </div>
+        <nav class="subnav">
+          <a href="../index.html">Home</a>
+          <a href="../notes/index.html">Notes</a>
+          <a href="./index.html" aria-current="page">Papers / talks / etc</a>
+        </nav>
+      </header>
+
+      <div class="resource-layout" id="resource-layout">
+        <section class="panel">
+          <div id="archive-resources"></div>
+        </section>
+        <aside class="panel toc-panel" id="resource-toc-panel" hidden>
+          <div class="panel-title tone-blue">Sections</div>
+          <nav id="resource-toc" class="toc-nav"></nav>
+        </aside>
+      </div>
+    </main>
+
+    <script type="module" src="../assets/site.js"></script>
+  </body>
+</html>

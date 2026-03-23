@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Note</title>
+    <link rel="stylesheet" href="../assets/vendor/prism/prism.css" />
+    <link rel="stylesheet" href="../assets/style.css" />
+    <script>
+      // MathJax is self-hosted so notes keep working without third-party CDNs.
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        },
+        options: {
+          skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+        },
+      };
+    </script>
+    <script defer src="../assets/vendor/mathjax/tex-mml-chtml.js"></script>
+    <script defer src="../assets/vendor/prism/prism.js"></script>
+    <script defer src="../assets/vendor/prism/prism-python.min.js"></script>
+    <script defer src="../assets/vendor/prism/prism-javascript.min.js"></script>
+    <script defer src="../assets/vendor/prism/prism-bash.min.js"></script>
+    <script defer src="../assets/vendor/prism/prism-markdown.min.js"></script>
+    <script defer src="../assets/vendor/prism/prism-mermaid.min.js"></script>
+  </head>
+  <body data-page="note-view">
+    <main class="shell note-shell">
+      <header class="site-header note-header">
+        <div class="header-row">
+          <div>
+            <div class="eyebrow">~ / <a href="../index.html">Home</a> / <a href="./index.html">Notes</a></div>
+            <h1 class="site-title" id="note-title">Loading…</h1>
+            <p class="lede" id="note-meta"></p>
+          </div>
+          <div class="site-controls panel panel-controls compact-controls theme-only-controls">
+            <button id="theme-toggle" class="mode-button full-width" type="button">Dark mode</button>
+          </div>
+        </div>
+        <nav class="subnav">
+          <a href="../index.html">Home</a>
+          <a href="./index.html" aria-current="page">Notes</a>
+          <a href="../resources/index.html">Papers / talks / etc</a>
+        </nav>
+      </header>
+
+      <div class="note-layout" id="note-layout">
+        <article class="panel note-panel">
+          <div class="note-actions">
+            <a href="./index.html">← Back to archive</a>
+          </div>
+          <div id="note-content" class="note-content">
+            <p class="muted">Loading rendered note…</p>
+          </div>
+        </article>
+        <aside class="panel toc-panel" id="note-toc-panel" hidden>
+          <div class="panel-title tone-teal">Contents</div>
+          <nav id="note-toc" class="toc-nav"></nav>
+        </aside>
+      </div>
+    </main>
+
+    <script type="module" src="../assets/note.js"></script>
+  </body>
+</html>

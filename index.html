@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Artur Boyago</title>
+    <meta
+      name="description"
+      content="A text-first personal website with notes, papers, CV, and lightweight static deployment."
+    />
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body data-page="home">
+    <main class="shell">
+      <header class="site-header">
+        <div class="header-row">
+          <div>
+            <div class="eyebrow">~ / <a href="./index.html">Home</a></div>
+            <h1 class="site-title" id="site-title">Artur Boyago</h1>
+          </div>
+          <div class="site-controls panel panel-controls compact-controls theme-only-controls">
+            <button id="theme-toggle" class="mode-button full-width" type="button">Dark mode</button>
+          </div>
+        </div>
+        <nav class="subnav">
+          <a href="./index.html" aria-current="page">Home</a>
+          <a href="./notes/index.html">Notes</a>
+          <a href="./resources/index.html">Papers / talks / etc</a>
+        </nav>
+      </header>
+
+      <section class="grid two-up">
+        <article class="panel">
+          <div class="panel-title tone-rose">About</div>
+          <div id="personal-information"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-title tone-violet">Now</div>
+          <div id="now-box"></div>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading">
+          <h2><span class="heading-block tone-violet">Writing & resources</span></h2>
+          <a class="section-link" href="./resources/index.html">Archive →</a>
+        </div>
+        <div class="tab-row">
+          <button class="tab-button is-active" data-home-tab="notes" type="button">Notes</button>
+          <button class="tab-button" data-home-tab="resources" type="button">Papers / talks / etc</button>
+        </div>
+        <div id="home-notes" data-home-panel="notes"></div>
+        <div id="home-resources" data-home-panel="resources" hidden></div>
+      </section>
+
+      <section class="grid two-up">
+        <article class="panel">
+          <div class="section-heading compact">
+            <h2><span class="heading-block tone-blue">Projects</span></h2>
+          </div>
+          <div id="projects-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="section-heading compact">
+            <h2><span class="heading-block tone-teal">Elsewhere</span></h2>
+          </div>
+          <ul class="plain-list" id="links-list"></ul>
+        </article>
+      </section>
+
+      <footer class="site-footer">
+        <span id="footer-copy"></span>
+      </footer>
+    </main>
+
+    <script type="module" src="./assets/site.js"></script>
+  </body>
+</html>

@@ -1,0 +1,795 @@
+/*
+  Global stylesheet for the entire site.
+
+  Structure:
+  1. Theme tokens and font-face declarations
+  2. Base element styles
+  3. Reusable layout primitives
+  4. Homepage/archive components
+  5. Note/resource viewer components
+  6. Responsive adjustments
+*/
+
+/* --- Mozilla Text family (self-hosted for fast local/offline loading) --- */
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-ExtraLight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mozilla Text';
+  src: url('./fonts/MozillaText-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --bg: #f2f1ee;
+  --panel: #f7f6f3;
+  --text: #171717;
+  --muted: #646464;
+  --border: #202020;
+  --soft-border: #c9c7c1;
+  --accent: #111111;
+  --code-bg: #eceae4;
+  --shadow: none;
+  --font-body: 'Mozilla Text', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: 'Mozilla Text', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+  --rose: #f4a8d7;
+  --violet: #cba6f7;
+  --blue: #8fa8ff;
+  --teal: #9fd7d0;
+  --amber: #f3d28e;
+  color-scheme: light;
+}
+
+html[data-theme='dark'] {
+  --bg: #121315;
+  --panel: #17191c;
+  --text: #ece8df;
+  --muted: #b3ad9e;
+  --border: #d7d1c4;
+  --soft-border: #383b40;
+  --accent: #f5f1e7;
+  --code-bg: #1f2329;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 17px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  line-height: 1.65;
+}
+
+/* --- Base element styles --- */
+a {
+  color: inherit;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: var(--font-mono);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-title,
+.panel-title,
+.heading-block,
+.resource-section > summary,
+.note-section > summary,
+.typst-source > summary {
+  font-family: var(--font-heading);
+}
+
+/* --- Page shells and layout primitives --- */
+.shell {
+  width: min(1120px, calc(100vw - 2rem));
+  margin: 0 auto;
+  padding: 1.5rem 0 3rem;
+}
+
+.shell.narrow,
+.reading-shell {
+  width: min(900px, calc(100vw - 2rem));
+}
+
+.note-shell {
+  width: min(1240px, calc(100vw - 2rem));
+}
+
+.site-header {
+  padding: 0.75rem 0 1rem;
+}
+
+.header-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.eyebrow {
+  color: var(--muted);
+  font-size: 0.94rem;
+  margin-bottom: 0.4rem;
+}
+
+.site-title {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 2.7rem);
+  line-height: 1.05;
+  font-weight: 600;
+}
+
+.lede {
+  margin: 0.8rem 0 0;
+  color: var(--muted);
+  max-width: 48rem;
+}
+
+.subnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.9rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--soft-border);
+}
+
+.subnav a {
+  color: var(--muted);
+}
+
+.subnav a[aria-current='page'] {
+  color: var(--text);
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.two-up {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.panel {
+  background: var(--panel);
+  border: 1.5px solid var(--border);
+  box-shadow: var(--shadow);
+  padding: 1rem 1rem 1.15rem;
+  margin-top: 1rem;
+}
+
+.panel-controls {
+  margin-top: 0;
+  min-width: 14rem;
+  padding: 0.8rem 0.85rem;
+}
+
+.compact-controls {
+  min-width: 12rem;
+}
+
+.theme-only-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mode-button,
+.tab-button {
+  background: transparent;
+  border: 1px solid var(--soft-border);
+  padding: 0.42rem 0.62rem;
+}
+
+.mode-button,
+.tab-button {
+  cursor: pointer;
+}
+
+.mode-button.full-width {
+  width: 100%;
+}
+
+.tab-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0.25rem 0 0.9rem;
+}
+
+.tab-button.is-active {
+  border-color: var(--border);
+  background: color-mix(in srgb, var(--violet) 40%, var(--panel));
+}
+
+/* --- Colored label blocks --- */
+.panel-title,
+.heading-block {
+  display: inline-block;
+  border: 1px solid var(--border);
+  padding: 0.12rem 0.45rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #171717;
+}
+
+.panel-title {
+  margin-bottom: 0.8rem;
+}
+
+.heading-block {
+  line-height: 1.2;
+}
+
+.tone-rose {
+  background: var(--rose);
+}
+
+.tone-violet {
+  background: var(--violet);
+}
+
+.tone-blue {
+  background: var(--blue);
+}
+
+.tone-teal {
+  background: var(--teal);
+}
+
+.tone-amber {
+  background: var(--amber);
+}
+
+html[data-theme='dark'] .panel-title,
+html[data-theme='dark'] .heading-block,
+html[data-theme='dark'] .mini-thumb {
+  color: #111111;
+}
+
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.section-heading.compact {
+  margin-bottom: 0.5rem;
+}
+
+.section-heading h2 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.section-link {
+  white-space: nowrap;
+  color: var(--muted);
+}
+
+/* --- Tables and list-like content blocks --- */
+.info-table,
+.notes-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.info-table tr:first-child td,
+.notes-table tr:first-child td,
+.notes-table tr:first-child th {
+  padding-top: 0;
+}
+
+.info-table td,
+.notes-table td,
+.notes-table th {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--soft-border);
+  vertical-align: top;
+}
+
+.info-table td:first-child,
+.notes-table td:first-child,
+.notes-table th:first-child {
+  width: 28%;
+  color: var(--muted);
+  padding-right: 1rem;
+}
+
+.notes-table th {
+  text-align: left;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.meta-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.meta-stack.with-thumb {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.meta-copy {
+  min-width: 0;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.plain-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.plain-list li {
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--soft-border);
+}
+
+.project-link {
+  font-weight: 600;
+}
+
+.project-description {
+  margin-top: 0.18rem;
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.3rem;
+}
+
+.tag {
+  display: inline-block;
+  border: 1px solid var(--soft-border);
+  padding: 0.08rem 0.42rem;
+  font-size: 0.77rem;
+  color: var(--muted);
+}
+
+.site-footer {
+  color: var(--muted);
+  padding: 1.1rem 0 0;
+}
+
+/* --- Thumbnail system (archive pages only) --- */
+.mini-thumb {
+  width: 88px;
+  min-width: 88px;
+  height: 66px;
+  border: 1px solid var(--border);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto 1fr auto;
+  gap: 0.18rem;
+  padding: 0.3rem 0.35rem;
+  overflow: hidden;
+  align-content: start;
+}
+
+.mini-thumb-mark {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.mini-thumb-type {
+  justify-self: end;
+  font-size: 0.52rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.mini-thumb-subtitle {
+  grid-column: 1 / -1;
+  font-size: 0.56rem;
+  line-height: 1.15;
+  align-self: end;
+}
+
+/* --- Resource and note two-column layouts --- */
+.resource-layout,
+.note-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 1rem;
+  align-items: start;
+}
+
+.toc-panel {
+  position: sticky;
+  top: 1rem;
+}
+
+.toc-nav {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.toc-nav a {
+  color: var(--muted);
+}
+
+/* Collapsible sections used on reading lists and resource group pages. */
+.resource-section,
+.note-section,
+.typst-source {
+  border: 1px solid var(--soft-border);
+  background: color-mix(in srgb, var(--panel) 84%, var(--bg));
+}
+
+.resource-section + .resource-section,
+.note-section + .note-section {
+  margin-top: 0.9rem;
+}
+
+.resource-section > summary,
+.note-section > summary,
+.typst-source > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.7rem 0.85rem;
+  border-bottom: 1px solid transparent;
+}
+
+.resource-section[open] > summary,
+.note-section[open] > summary,
+.typst-source[open] > summary {
+  border-bottom-color: var(--soft-border);
+}
+
+.resource-section > summary::-webkit-details-marker,
+.note-section > summary::-webkit-details-marker,
+.typst-source > summary::-webkit-details-marker {
+  display: none;
+}
+
+.resource-section > summary::before,
+.note-section > summary::before,
+.typst-source > summary::before {
+  content: '+ ';
+}
+
+.resource-section[open] > summary::before,
+.note-section[open] > summary::before,
+.typst-source[open] > summary::before {
+  content: '− ';
+}
+
+.resource-group-list,
+.note-section-body {
+  padding: 0.9rem;
+}
+
+.resource-group-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.resource-card {
+  display: grid;
+  grid-template-columns: 104px minmax(0, 1fr);
+  gap: 0.9rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--soft-border);
+}
+
+.resource-card:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.resource-card .mini-thumb {
+  width: 104px;
+  min-width: 104px;
+  height: 78px;
+}
+
+.resource-copy h3 {
+  margin: 0.15rem 0 0.3rem;
+  font-size: 1.05rem;
+}
+
+.resource-copy p,
+.resource-kicker,
+.resource-links {
+  margin: 0.25rem 0;
+}
+
+.resource-kicker,
+.resource-links {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+/* --- Note page content styling --- */
+.note-panel {
+  padding-top: 0.9rem;
+}
+
+.note-actions {
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--soft-border);
+  margin-bottom: 1rem;
+}
+
+.note-content {
+  font-size: 1.03rem;
+}
+
+.note-content h1,
+.note-content h2,
+.note-content h3,
+.note-content h4 {
+  line-height: 1.18;
+  margin-top: 1.8rem;
+  margin-bottom: 0.55rem;
+}
+
+.note-content p,
+.note-content ul,
+.note-content ol,
+.note-content pre,
+.note-content blockquote,
+.note-content .callout,
+.note-content .mermaid,
+.note-content .typst-block,
+.note-content table {
+  margin: 0.9rem 0;
+}
+
+.note-content img,
+.note-content svg {
+  max-width: 100%;
+}
+
+.note-content code {
+  background: var(--code-bg);
+  padding: 0.08rem 0.26rem;
+  border-radius: 0.18rem;
+  font-size: 0.92em;
+}
+
+.note-content pre,
+.note-content .mermaid {
+  overflow-x: auto;
+  background: var(--code-bg);
+  border: 1px solid var(--soft-border);
+  padding: 0.9rem;
+}
+
+/* Mermaid blocks fall back to readable source text if the remote runtime is unavailable. */
+.note-content .mermaid {
+  white-space: pre-wrap;
+  font-family: var(--font-mono);
+}
+
+.note-content pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.note-content blockquote {
+  border-left: 3px solid var(--border);
+  margin-left: 0;
+  padding-left: 0.9rem;
+  color: var(--muted);
+}
+
+.callout {
+  border: 1px solid var(--border);
+  padding: 0.75rem 0.9rem;
+  background: color-mix(in srgb, var(--panel) 85%, var(--bg));
+}
+
+.callout strong {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.typst-block {
+  border: 1px solid var(--border);
+  padding: 0.75rem;
+  background: color-mix(in srgb, var(--panel) 80%, var(--bg));
+}
+
+.typst-preview {
+  border-bottom: 1px solid var(--soft-border);
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.note-content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.note-content th,
+.note-content td {
+  border: 1px solid var(--soft-border);
+  padding: 0.5rem 0.6rem;
+  text-align: left;
+}
+
+.mermaid-status {
+  margin-top: 0;
+}
+
+/* --- Responsive adjustments --- */
+@media (max-width: 1040px) {
+  .resource-layout,
+  .note-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .toc-panel {
+    position: static;
+  }
+}
+
+@media (max-width: 900px) {
+  .header-row {
+    flex-direction: column;
+  }
+
+  .panel-controls,
+  .compact-controls {
+    width: 100%;
+    min-width: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  html {
+    font-size: 16px;
+  }
+
+  .two-up {
+    grid-template-columns: 1fr;
+  }
+
+  .info-table td:first-child,
+  .notes-table td:first-child,
+  .notes-table th:first-child {
+    width: 36%;
+  }
+
+  .section-heading {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .resource-card {
+    grid-template-columns: 1fr;
+  }
+
+  .resource-card .mini-thumb,
+  .mini-thumb {
+    width: 100%;
+    min-width: 0;
+  }
+}
