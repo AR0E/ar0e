@@ -30,7 +30,7 @@ This is just what I managed to remember to put here. Any suggestions welcome (al
     - [Type systems (fits on the PL section)](http://lucacardelli.name/papers/typesystems.pdf)
   - [Yeng-Kheng Lim's page](https://sites.google.com/view/yenkhenglim/home)
     - [General Relativity Notes](https://drive.google.com/file/d/1FtiRrNOQdm4xjBQs1cPy4oUWEbCksmYV/view)
-
+  - [Paul Masson's page (Analytic Physicist)](https://analyticphysics.com/)
   - [Gerard Westendorp's page](https://westy31.nl/)
     - [Dispersion free wavepackets](https://westy31.nl/WavePackets/Wavepackets.html)
     - [Electric circuit diagram equivalent of fields](https://westy31.nl/Electric.html)
